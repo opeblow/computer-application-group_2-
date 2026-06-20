@@ -1,0 +1,9 @@
+bin/
+obj/
+*.vbproj.user
+.vs/
+*.suo
+*.user
+diagnostic_output.txt
+*.png
+*.jpg
